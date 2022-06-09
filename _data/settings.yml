@@ -11,8 +11,8 @@ menu:
 
 projects:
 - {name: 'Photography',   url: 'proj-1'}
-- {name: 'Graphics Designing',   url: 'proj-2'}
-- {name: 'Digital Art', url: 'proj-3'}
+- {name: 'Graphics Designing',   url: 'proj-3'}
+- {name: 'Digital Art', url: 'proj-4'}
 
 #-------------------------------
 # Contact Section
