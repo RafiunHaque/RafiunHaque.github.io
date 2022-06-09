@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'Digital Art'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula ofc.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+{% image="projects/proj-4/da1.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/da2.jpg" %}
