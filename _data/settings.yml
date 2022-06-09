@@ -18,9 +18,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://www.instagram.com/rafiun_haque/' ![Link to my instagram page]}
-- {icon: 'github',    link: 'https://github.com/RafiunHaque' ![Link to my github page]}
-- {icon: 'envelope',  link: 'mailto:mailto:rafiunhaque@gmail.com' ![Link to my email handle]}
+- {icon: 'instagram', link: 'https://www.instagram.com/rafiun_haque/'}
+- {icon: 'github',    link: 'https://github.com/RafiunHaque'}
+- {icon: 'envelope',  link: 'mailto:mailto:rafiunhaque@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
