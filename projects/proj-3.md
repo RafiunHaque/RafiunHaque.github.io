@@ -3,7 +3,9 @@ layout: post
 title: 'Graphics Designing'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti changed.
+Graphic design is the craft of planning and creating visual content to communicate ideas and messages. Graphic design is everywhere you look — from billboards to cereal boxes to mobile apps. Through incorporating different elements and principles, these designs can influence our perception and emotions.
+
+Graphic design is also known as communication design, and Graphic Designers are essentially visual communicators. They bring visual concepts to life, most commonly through graphic design software, and inform or engage consumers through text, graphics and images. You can see some of my graphics below:
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/gd1.jpg" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/gd2.jpg" %}
