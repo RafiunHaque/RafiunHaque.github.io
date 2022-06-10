@@ -8,4 +8,4 @@ Photography can serve many purposes and have many facets. Photography can tell a
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/photo3.JPG" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/photo4.JPG" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/photo5.JPG" %}
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/thumbnail.JPG" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-1/thumbnail.jpg" %}
