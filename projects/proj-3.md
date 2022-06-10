@@ -13,3 +13,4 @@ Graphic design is also known as communication design, and Graphic Designers are 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/gd4.jpg" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/gd5.jpg" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-3/gd6.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/thumbnail.jpg" %}
