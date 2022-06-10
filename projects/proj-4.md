@@ -9,3 +9,5 @@ Digital art is work made with digital technology or presented on digital technol
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/da1.jpg" %}
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/da2.jpg" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/thumbnail.jpg" %}
+
